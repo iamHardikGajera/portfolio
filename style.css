@@ -241,7 +241,7 @@ nav ul li a:hover::after {
     /* box-shadow: 5px 5px 12px #0f0f0f, -5px -5px 0px #ff417d; */
     /* border-radius: 35px; */
     /* background: linear-gradient(145deg, #222222, #292929); */
-    box-shadow: 50px 50px 59px #161616,-50px -50px 59px #ff417d;
+    /*box-shadow: 50px 50px 59px #161616,-50px -50px 59px #ff417d;*/
 
 }
 
@@ -338,7 +338,7 @@ nav ul li a:hover::after {
 
 .btn:hover {
     background: #eb034c;
-    box-shadow: 5px 5px 12px #0f0f0f, -5px -5px 12px #ff417d;
+    /*box-shadow: 5px 5px 12px #0f0f0f, -5px -5px 12px #ff417d;*/
 
 }
 
@@ -390,7 +390,7 @@ nav ul li a:hover::after {
     /* color: #ff004F; */
     color: #fff;
 
-    box-shadow: 5px 5px 12px #0f0f0f, -5px -5px 12px #ff417d;
+    /*box-shadow: 5px 5px 12px #0f0f0f, -5px -5px 12px #ff417d;*/
 
 
 }
